@@ -1,7 +1,5 @@
 # Stopwatch
 
-Coding Ninjas Skill Test Group 1
-
 Stopwatch maintains a simple stopwatch functionality. 
 
 Features:
